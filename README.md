@@ -17,9 +17,8 @@ Podstawy manualnego testowania
 Praktyczny kurs testowania
 uTest Academy Course
 
-##
+## Skills
 ---
-Skills
 Certified ISQTB knowledge - foundation level
 Creating test plans / test cases / reporting bugs
 Web application testing
@@ -38,3 +37,10 @@ HTTP
 REST API concepts
 Virtualization and Containarization concepts
 
+## Linkedin profile
+---
+https://www.linkedin.com/in/agata-malczyk-7a9697254
+
+## Books
+--- 
+A.Roman - "Testowanie i jakość oprogramowania"

@@ -19,7 +19,7 @@ uTest Academy Course
 
 ## Skills
 ---
-** Certified ISQTB knowledge - foundation level
+ ** Certified ISQTB knowledge - foundation level
 ** Creating test plans / test cases / reporting bugs
 ** Web application testing
 ** Basic SCRUM concepts

@@ -22,20 +22,22 @@ uTest Academy Course
  * Certified ISQTB knowledge - foundation level
  * Creating test plans / test cases / reporting bugs
  * Web application testing
-** Basic SCRUM concepts
-POSTMAN, SOAP UI
-Devtools 
-JMeter
-Testlink
-Linux / tools less, grep, sed, wc, etc.. / Bash Scripting
-CI/CD (Jenkins)
-Git/Gitflow
-JIRA/Confluence
-Python and Flask
-SQL Language (mySQL)
-HTTP 
-REST API concepts
-Virtualization and Containarization concepts
+ * Basic SCRUM concepts
+ * POSTMAN, SOAP UI
+ * Devtools 
+ * JMeter
+ * Testlink
+ * Linux / tools less, grep, sed, wc, etc.. / Bash Scripting
+ * CI/CD (Jenkins)
+ * Git/Gitflow
+ * JIRA/Confluence
+ * Python and Flask
+ * SQL Language (mySQL)
+ * HTTP 
+ * REST API concepts
+ * Visual Studio Code
+ * PyCharm
+ * Virtualization and Containarization concepts
 
 ## Linkedin profile
 ---

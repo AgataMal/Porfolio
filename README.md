@@ -46,3 +46,5 @@ https://www.linkedin.com/in/agata-malczyk-7a9697254
 ## Books
 --- 
 A.Roman - "Testowanie i jakość oprogramowania"
+
+## link do google drive: https://drive.google.com/drive/folders/17m4etwOsjHDgqPF-nfkD9S6ZOAy5dVWm

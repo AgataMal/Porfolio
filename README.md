@@ -6,16 +6,16 @@ In the beginning, I concentrated my effort on manual testing, completing various
 
 ## Courses & Certificates
 ---
-ISTQB Certified Tester Foundation Level
-Dare IT Challenge - Wstęp do Testów Automatycznych
-Automated Testing Self-Paced Program
-Learning Linux for LFCA Certification
-Kurs Certyfikowany Tester ISTQB
-Python
-SQL
-Podstawy manualnego testowania
-Praktyczny kurs testowania
-uTest Academy Course
+ * ISTQB Certified Tester Foundation Level
+ * Dare IT Challenge - Wstęp do Testów Automatycznych
+ * Automated Testing Self-Paced Program
+ * Learning Linux for LFCA Certification
+ * Kurs Certyfikowany Tester ISTQB
+ * Python
+ * SQL
+ * Podstawy manualnego testowania
+ * Praktyczny kurs testowania
+ * uTest Academy Course
 
 ## Skills
 ---
